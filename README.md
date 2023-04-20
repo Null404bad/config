@@ -1,1 +1,2 @@
-# config for own use
+## Clash
+> config for own use
