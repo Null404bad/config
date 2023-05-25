@@ -2,7 +2,6 @@ DOMAIN-SUFFIX,wxdown.org
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,csdn.net
 DOMAIN-SUFFIX,cnki.net
-DOMAIN,subscribe.kelecloud.org
 DOMAIN-SUFFIXrev.com,REJECT
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,vultr.com
